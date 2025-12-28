@@ -1,5 +1,3 @@
-Ignorar dados gerados (CSV e Excel) para não poluir o repo
-*.csv*.xlsx
-
-Ignorar arquivos de sistema e Python
-pycache/ *.py[cod] .DS_Store .env venv/
+*.csv
+*.xlsx
+__pycache__/
